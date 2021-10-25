@@ -1,1 +1,1 @@
-# Ass2TommyTran
+After researching on the internet about both algorithm (Regression and Classification). Even tho both models and alogrithms is good at predicting output values based on data sets, regression felt easier to use in our case.
